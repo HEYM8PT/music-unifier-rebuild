@@ -20,12 +20,12 @@ Tracking the complete rebuild of the Music Unifier Android app focused on actual
 - [x] 2.6 Album art everywhere
 
 ### Phase 3: Visual Theme 🎨
-- [ ] 3.1 Quality badges visible
-- [ ] 3.2 Floating mini player
-- [ ] 3.3 Tidal preset works
-- [ ] 3.4 AMOLED dark theme
-- [ ] 3.5 Bottom nav customization
-- [ ] 3.6 Now playing config applies
+- [x] 3.1 Quality badges visible
+- [x] 3.2 Floating mini player
+- [x] 3.3 Tidal preset works
+- [x] 3.4 AMOLED dark theme
+- [x] 3.5 Bottom nav customization
+- [x] 3.6 Now playing config applies
 
 ### Phase 4: Polish 🚀
 - [ ] 4.1 Layout presets wired
@@ -51,3 +51,6 @@ docker run --rm \
 ### Phase 2 Result
 - **Build:** SUCCESSFUL
 - **Features:** Album art in recommendations, Smart playlist cards, Mood mix tiles, AlbumRow fixes
+- **Build:** SUCCESSFUL
+- **APK:** 18MB
+- **Features:** Floating mini player, AMOLED mode, Tidal colors, quality badges, now playing config
